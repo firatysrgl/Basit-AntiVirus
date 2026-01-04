@@ -1,0 +1,7 @@
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\bin\Debug\BasitAntivirus.exe.config
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\bin\Debug\BasitAntivirus.exe
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\bin\Debug\BasitAntivirus.pdb
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\obj\Debug\BasitAntivirus.csproj.AssemblyReference.cache
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\obj\Debug\BasitAntivirus.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\obj\Debug\BasitAntivirus.exe
+C:\Users\FIRAT YUNUS\source\repos\BasitAntivirus\BasitAntivirus\obj\Debug\BasitAntivirus.pdb
