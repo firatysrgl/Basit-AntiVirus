@@ -100,7 +100,7 @@ File.Delete: Tehdidi ortadan kaldırmak için.
 
 📷 Ara Yüz Ekranı
 
-![Ara Yüz Ekranı][(https://github.com/firatysrgl//blob/main/screenshot/ss.png](https://github.com/firatysrgl/Basit-AntiVirus/blob/main/screenshot/ss.png)
+![Ara Yüz Ekranı](https://github.com/firatysrgl/Basit-AntiVirus/blob/main/screenshot/ss.png)
 
 
 
